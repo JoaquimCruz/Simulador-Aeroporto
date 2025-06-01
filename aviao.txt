@@ -1,0 +1,20 @@
+GOL:1:1:S
+LATAM:17:1:N
+AZUL:3:1:N
+American Airlines:4:2:N
+GOL:5:3:S
+LATAM:6:4:N
+AZUL:7:1:N
+American Airlines:8:2:N
+GOL:9:14:N
+LATAM:10:5:N
+AZUL:11:1:N
+American Airlines:12:1:S
+GOL:13:3:S
+LATAM:14:9:N
+AZUL:15:5:N
+American Airlines:16:4:N
+GOL:17:10:N
+LATAM:18:2:N
+AZUL:19:6:S
+American Airlines:20:13:N
